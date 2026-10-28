@@ -1,0 +1,13 @@
+# Build output from `node build-package.js <username>` - contains a real username, never commit
+deploy/
+
+# macOS / editor noise
+.DS_Store
+.vscode/
+
+# Salesforce CLI local state
+.sf/
+.sfdx/
+
+# Node (if dependencies are ever added)
+node_modules/
