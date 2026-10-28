@@ -1,6 +1,6 @@
 # Zoom Webinar: re-sync Campaign Members created by integration users
 
-> **Disclaimer:** This is a personal lab project. It is **not** an official Zoom product, is not affiliated with, endorsed by, or supported by Zoom Video Communications, Inc., and comes with no warranty. Test thoroughly in a sandbox before using it anywhere else.
+> **Disclaimer:** This is a personal lab project. It is **not** an official Zoom product, is not affiliated with, endorsed by, or supported by Zoom Communications, Inc., and comes with no warranty. Test thoroughly in a sandbox before using it anywhere else.
 
 ## The problem
 
