@@ -11,3 +11,6 @@ deploy/
 
 # Node (if dependencies are ever added)
 node_modules/
+
+# Local-only diagram (not published)
+flow-diagram.html
